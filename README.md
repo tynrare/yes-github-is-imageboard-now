@@ -28,7 +28,7 @@
 # d230924 (AI generated)
 
 
-![img]("img/d0/out-0 (1).png")
+![img](out-1\ (10).png)
 ![img](img/d0/out-0 (10).png)
 ![img](img/d0/out-0 (11).png)
 ![img](img/d0/out-0 (12).png)
