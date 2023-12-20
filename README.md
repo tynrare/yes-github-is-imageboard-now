@@ -2,8 +2,6 @@
 
 # d0 (AI generated, rendered)
 
-# [VIEW MORE](EXTRAS.md)
-
 ![img](img/d0/Japanese_urban_downtown_hirise(1).jpeg)
 ![img](img/d0/Japanese_urban_downtown_hirise(2).jpeg)
 ![img](img/d0/Japanese_urban_downtown_hirise.jpeg)
@@ -28,6 +26,8 @@
 ![img](img/d0/painterly_anime_artwork_overex.jpeg)
 
 # d230924 (AI generated)
+
+# [VIEW MORE](EXTRAS.md)
 
 ![img](img/d230924/out-0%20(1).png)
 ![img](img/d230924/out-0%20(10).png)
@@ -60,12 +60,10 @@
 
 # d231107 (AI generated)
 
-![img](img/d231107/2023-10-18_165245.png)
 ![img](img/d231107/20975ea5885e402bae13d721.jpeg)
 ![img](img/d231107/20b402d5497d496e9e960931.jpeg)
 ![img](img/d231107/3D_cartoon_low_poly_banana_pen(1).jpeg)
 ![img](img/d231107/3D_cartoon_low_poly_banana_pen(2).jpeg)
-![img](img/d231107/3D_cartoon_low_poly_banana_pen.jpeg)
 ![img](img/d231107/3D_cartoon_low_poly_carrot_pen.jpeg)
 ![img](img/d231107/3D_cartoon_low_poly_carrot_ren(1).jpeg)
 ![img](img/d231107/3D_cartoon_low_poly_carrot_ren(2).jpeg)
@@ -173,7 +171,7 @@
 ![img](img/d231107/potion_ingredients_icon_set_on(8).jpeg)
 ![img](img/d231107/potion_ingredients_icon_set_on(9).jpeg)
 ![img](img/d231107/potion_ingredients_icon_set_on.jpeg)
-![img](img/d231107/rabbit_maori_with_carapace_con\ (2).jpeg)
+![img](img/d231107/rabbit_maori_with_carapace_con(2).jpeg)
 ![img](img/d231107/rabbit_maori_with_carapace_con(1).jpeg)
 ![img](img/d231107/rabbit_maori_with_carapace_con(2).jpeg)
 ![img](img/d231107/rabbit_maori_with_carapace_con(3).jpeg)
@@ -187,9 +185,6 @@
 ![img](img/d231107/single_lemon_on_simple_backgro.jpeg)
 ![img](img/d231107/thigh_gap_genetic_sonatine_in_(1).jpeg)
 ![img](img/d231107/thigh_gap_genetic_sonatine_in_.jpeg)
-![img](img/d231107/tile-231015.png)
-![img](img/d231107/untitled.png)
-![img](img/d231107/vfx_particle_d231027.png)
 
 # d231206 (shaders rendered)
 
