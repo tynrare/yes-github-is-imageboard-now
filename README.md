@@ -2,6 +2,8 @@
 
 # d0 (AI generated, rendered)
 
+# [VIEW MORE](EXTRAS.md]
+
 ![img](img/d0/Japanese_urban_downtown_hirise(1).jpeg)
 ![img](img/d0/Japanese_urban_downtown_hirise(2).jpeg)
 ![img](img/d0/Japanese_urban_downtown_hirise.jpeg)
@@ -25,7 +27,7 @@
 ![img](img/d0/painterly_anime_artwork_overex(1).jpeg)
 ![img](img/d0/painterly_anime_artwork_overex.jpeg)
 
-# d230924 (AI generated)
+# d230924 (AI generated), 
 
 ![img](img/d230924/out-0%20(1).png)
 ![img](img/d230924/out-0%20(10).png)
