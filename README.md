@@ -1,6 +1,6 @@
 # yes-github-is-imageboard-now
 
-#d0 (AI generated)
+# d0 (AI generated)
 
 ![img](img/d0/Japanese_urban_downtown_hirise(1).jpeg)
 ![img](img/d0/Japanese_urban_downtown_hirise(2).jpeg)
@@ -28,7 +28,7 @@
 # d230924 (AI generated)
 
 
-![img](img/d0/out-0 (1).png)
+![img]("img/d0/out-0 (1).png")
 ![img](img/d0/out-0 (10).png)
 ![img](img/d0/out-0 (11).png)
 ![img](img/d0/out-0 (12).png)
